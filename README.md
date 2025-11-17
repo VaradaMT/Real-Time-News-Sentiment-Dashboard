@@ -3,7 +3,7 @@
 **Technologies:** PySpark, Streamlit, API Integration, ML Pipeline
 
 Created a real-time sentiment classification pipeline for live news headlines using **Spark Structured Streaming** and a **PySpark ML model**.  
-Integrated automatic ingestion from news APIs and built a dashboard (optional Streamlit) to visualize sentiment trends and predictions.
+Integrated automatic ingestion from news APIs and built a dashboard (Streamlit) to visualize sentiment trends and predictions.
 
 ---
 
